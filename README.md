@@ -4,5 +4,5 @@
 
 <ul>
     <li><a href="Lab1/index.html">Lab 1: Competitive Pokemon</a></li>
-    <li><a href="Lab2/index.html">Lab 2: Basic HTML Structure</a></li>
+    <li><a href="Lab2/index.html">Lab 2: My Favorite Pokemon</a></li>
 </ul>
