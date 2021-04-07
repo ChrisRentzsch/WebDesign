@@ -10,4 +10,5 @@
     <li><a href="Midterm/index.html">My Ideal Pokemon Team</a></li>
     <li><a href="Lab5/index.html">Lab 5: My Favorite Held Items</a></li>
     <li><a href="Lab6/index.html">Lab 6: My Favorite Held Items</a></li>
+    <li><a href="Lab7/index.html">Lab 7</a></li>
 </ul>
