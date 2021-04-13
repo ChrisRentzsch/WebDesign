@@ -11,4 +11,5 @@
     <li><a href="Lab5/index.html">Lab 5: My Favorite Held Items</a></li>
     <li><a href="Lab6/index.html">Lab 6: My Favorite Held Items</a></li>
     <li><a href="Lab7/index.html">Lab 7: Ditto, A D&D Meme, Lego Stuff, and Anime Music</a></li>
+    <li><a href="Lab8/index.html">Lab 8: Terraria Mods</a></li>
 </ul>

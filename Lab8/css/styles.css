@@ -1,0 +1,91 @@
+body {
+    background-color: blue;
+}
+
+header {
+    background-color: crimson;
+    color: darkgreen;
+    padding: 15% 2%;
+    text-align: center;
+    font-size: 125%;
+}
+
+nav {
+    background-color: darkorange;
+}
+
+nav ul {
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: block;
+}
+
+nav li a {
+    display: inline-block;
+    width: 100%;
+    padding: 10px 0;
+    background-color: dimgrey;
+    text-align: center;
+    color: lawngreen;
+    font-size: 10em;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: lime;
+    color: maroon;
+}
+
+main {
+    background-color:turquoise;
+    padding: 10px;
+}
+
+article {
+    background-color: purple;
+    padding: 2%;
+}
+
+footer {
+    background-color: darkslategrey;
+    text-align: center;
+}
+
+#menu {
+    display: none;
+}
+
+div.bx-wrapper {
+    display: none;
+}
+
+@media only screen and (min-width: 481px) {
+    nav {
+        text-align: center;
+    }
+
+    nav li {
+        display: inline-block;
+        font-size: 24.5%;
+    }
+
+    nav li a {
+        background-color: dimgray;
+        color: lawngreen;
+    }
+
+    #menu {
+        display: block;
+    }
+
+    .slicknav_menu {
+        display: none;
+    }
+
+    div.bx-wrapper {
+        display: block;
+    }
+}
